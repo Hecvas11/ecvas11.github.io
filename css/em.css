@@ -16,6 +16,7 @@ body {
 /* Globales */
 img{
   max-width: 100%;
+  border-radius: 2rem;
 }
 .contenedor {
   max-width: 120rem;
@@ -113,9 +114,7 @@ h2{
   margin-bottom: auto;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-img{
-  border-radius: 2rem;
-}
+
 
 
 /* anuncios */
